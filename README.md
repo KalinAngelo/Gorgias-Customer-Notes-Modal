@@ -50,7 +50,7 @@ Install the Tampermonkey browser extension:
 
 Open the raw userscript URL in your browser:
 
-    https://raw.githubusercontent.com/YOUR_ORG/gorgias-customer-notes-modal/main/gorgias-customer-notes-modal.user.js
+    https://raw.githubusercontent.com/KalinAngelo/gorgias-customer-notes-modal/main/gorgias-customer-notes-modal.user.js
 
 Tampermonkey should detect the `.user.js` file and show an installation screen.
 
@@ -237,4 +237,3 @@ Useful contributions include:
 MIT License.
 
 See [`LICENSE`](LICENSE) for details.
-
