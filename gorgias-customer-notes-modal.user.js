@@ -4,7 +4,7 @@
 // @version      2.1
 // @description  Opens Gorgias customer notes in a large centered modal editor.
 // @author       Kalin Popov
-// @license      Internal Use Only
+// @license      MIT
 // @match        https://*.gorgias.com/*
 // @match        https://app.gorgias.com/*
 // @run-at       document-idle
